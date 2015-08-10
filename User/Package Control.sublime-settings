@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"AutoFileName",
+		"Color Highlighter",
+		"CSScomb",
+		"Emmet",
+		"Numix Theme",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"Theme - Asphalt",
+		"Theme - Flatland",
+		"Theme - itg.flat",
+		"Theme - Orchis",
+		"Theme - Piatto",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray"
+	]
+}
